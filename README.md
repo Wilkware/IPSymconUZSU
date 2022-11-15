@@ -51,7 +51,8 @@ Dies ist die komplexeste Aufgabe innerhalb der Modulkonfiguration und befindet s
 
 #### Wie bearbeitet man einen Zeitplan?
 
-Um einen Zeitplan zu bearbeiten und anzupassen muss dieser zuerst markiert werden (grau hinterlegt). Dies erfolgt durch einfachen Mausklick auf die erste Spalte (Selektor ≡) der entsprechenden Zeile in der Liste. _ACHTUNG:_ nur der Klick auf '≡' führt hier zum Ziel!!!
+Um einen Zeitplan zu bearbeiten und anzupassen muss dieser zuerst markiert werden (grau hinterlegt). Dies erfolgt durch einfachen Mausklick auf die erste Spalte (Selektor ≡) der entsprechenden Zeile in der Liste.  
+_ACHTUNG:_ nur der Klick auf '≡' führt hier zum Ziel!!!  
 Danach werden die aktuellen Werte eines Zeitplans unterhalb der Schalterreihe angezeigt!
 Hat man dann seine Anpassungen in den einzelnen Sektionen getätigt, speichert man über den Schalter AKTUALISIEREN die Änderungen zurück in die Liste (immer noch grau selektierter Listeneintrag).
 
@@ -59,7 +60,8 @@ Hat man dann seine Anpassungen in den einzelnen Sektionen getätigt, speichert m
 
 #### Wie löscht man einen Zeitplan?
 
-Einfach auf das Mülleimersymbol am Ende eines jeden Listeneintrags drücken. _ACHTUNG:_ Es erfolgt keine Nachfrage, alle Daten gehen sofort verloren!
+Einfach auf das Mülleimersymbol am Ende eines jeden Listeneintrags drücken.  
+_ACHTUNG:_ Es erfolgt keine Nachfrage, alle Daten gehen sofort verloren!
 
 ---
 
@@ -73,13 +75,13 @@ Dannach kann man den neu erzeugten Plan wieder markieren (≡) und ändern.
 #### Wie kann ich Zeitpläne sortieren?
 
 Mittels Drag&Drop via der Selektionsspalte (≡) kann die Reihenfolge der Zeitpläne innerhalb der Liste verändert werden.
-Wenn man die richtige Reihenfolge festgelegt hat, erfolgt durch Drücken des Schalters NEUSORTIERUNG die Umbennenung der IDs (#).
+Wenn man die richtige Reihenfolge festgelegt hat, erfolgt durch Drücken des Schalters NEUSORTIERUNG die Umbennenung der IDs (Spalte #).
 
 ---
 
 #### Wie kann ich einen externen Auslöser festlegen?
 
-Im Panel "Erweiterte Einstellungen ..." kann man eine Action.Variable vom Typ Boolean als Auslöser hinterlegen.
+Im Panel "Erweiterte Einstellungen ..." kann man eine Variable vom Typ Boolean als Auslöser hinterlegen.
 
 ### 2. Voraussetzungen
 

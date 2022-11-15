@@ -1,0 +1,16 @@
+{
+    "id": "{C816916B-C1A9-E624-A4B8-57F9462ACBD3}",
+    "name": "Universal Timer",
+    "type": 3,
+    "vendor": "",
+    "aliases":
+    [
+        "Universelle Zeitschaltuhr",
+        "Zeitschaltuhr"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "UTSC",
+    "url": "https://wilkware.de/ip-symcon-module/universelle-zeitschaltuhr/"
+}

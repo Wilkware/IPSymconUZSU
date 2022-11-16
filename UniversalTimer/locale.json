@@ -2,7 +2,7 @@
     "translations": {
         "de": {
             "\nUniversal Timer\n ": "\nUniverselle Zeitschaluhr\n ",
-            "This module enables targeted switching operations at specific times or depending on events.": "Dieses Modul ermöglicht gezielte Schaltvorgänge zu bestimmten Uhrzeiten oder in Abbhängigkeit von Ereignissen.",
+            "This module enables targeted switching operations at specific times or depending on events.": "Dieses Modul ermöglicht gezielte Schaltvorgänge zu bestimmten Uhrzeiten oder in Abhängigkeit von Ereignissen.",
             "Circuit ...": "Schaltung ...",
             "... can be globally activated or deactivated via the following switch:": "... kann über den folgenden Schalter global aktiviert oder deaktiviert werden:",
             "Timing control ...": "Zeitsteuerung ...",

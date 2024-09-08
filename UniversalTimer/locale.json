@@ -1,6 +1,7 @@
 {
     "translations": {
         "de": {
+            "Universal Timer": "Universelle Zeitschaluhr",
             "\nUniversal Timer\n ": "\nUniverselle Zeitschaluhr\n ",
             "This module enables targeted switching operations at specific times or depending on events.": "Dieses Modul ermöglicht gezielte Schaltvorgänge zu bestimmten Uhrzeiten oder in Abhängigkeit von Ereignissen.",
             "Circuit ...": "Schaltung ...",
@@ -54,8 +55,8 @@
             "Not on holidays or vacations": "Nicht an Feiertagen oder Ferientagen",
             "Overwritten when a trigger or\nevent is selected!": "Wird bei Auswahl eines Auslösers bzw.\nEreignisses überschrieben!",
             "Time table:": "Zeitplan:",
-            "Number:":"Nummer:",
-            "Status:":"Status:",
+            "Number:": "Nummer:",
+            "Status:": "Status:",
             "Rule:": "Regel:",
             "Earliest:": "Frühstens:",
             "Event:": "Ereignis:",
@@ -99,7 +100,7 @@
             "Instance active.": "Instanz ist aktiv.",
             "Instance inactive.": "Instanz ist inaktiv.",
             "Source code, donation and licence ...": "Quellcode, Spende und Lizenz ...",
-            "The software is free of charge for non-commercial use, I would appreciate a donation if you like the module.": "Die Software ist für die nicht kommzerielle Nutzung kostenlos, über eine Spende bei Gefallen des Moduls würde ich mich sehr freuen."
+            "The software is free of charge for non-commercial use, I would appreciate a donation if you like the module.": "Die Software ist für die nicht kommerzielle Nutzung kostenlos, über eine Spende bei Gefallen des Moduls würde ich mich sehr freuen."
         }
     }
 }

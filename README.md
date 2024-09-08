@@ -1,10 +1,10 @@
 # Universelle Zeitschaltuhr (Universal Timer)
 
-[![Version](https://img.shields.io/badge/Symcon-PHP--Modul-red.svg)](https://www.symcon.de/service/dokumentation/entwicklerbereich/sdk-tools/sdk-php/)
-[![Product](https://img.shields.io/badge/Symcon%20Version-6.0-blue.svg)](https://www.symcon.de/produkt/)
-[![Version](https://img.shields.io/badge/Modul%20Version-1.0.20220228-orange.svg)](https://github.com/Wilkware/IPSymconUniversalTimer)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Actions](https://github.com/Wilkware/IPSymconUniversalTimer/workflows/Check%20Style/badge.svg)](https://github.com/Wilkware/IPSymconUniversalTimer/actions)
+[![Version](https://img.shields.io/badge/Symcon-PHP--Modul-red.svg?style=flat-square)](https://www.symcon.de/service/dokumentation/entwicklerbereich/sdk-tools/sdk-php/)
+[![Product](https://img.shields.io/badge/Symcon%20Version-6.4-blue.svg?style=flat-square)](https://www.symcon.de/produkt/)
+[![Version](https://img.shields.io/badge/Modul%20Version-1.0.20220228-orange.svg?style=flat-square)](https://github.com/Wilkware/UniversalTimer)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Actions](https://img.shields.io/github/actions/workflow/status/wilkware/UniversalTimer/style.yml?branch=main&label=CheckStyle&style=flat-square)](https://github.com/Wilkware/UniversalTimer/actions)
 
 Dieses Modul ermöglicht gezielte Schaltvorgänge zu bestimmten Uhrzeiten oder in Abhängigkeit von Ereignissen.
 
@@ -15,7 +15,7 @@ Dieses Modul ermöglicht gezielte Schaltvorgänge zu bestimmten Uhrzeiten oder i
 3. [Installation](#user-content-3-installation)
 4. [Einrichten der Instanzen in IP-Symcon](#user-content-4-einrichten-der-instanzen-in-ip-symcon)
 5. [Statusvariablen und Profile](#user-content-5-statusvariablen-und-profile)
-6. [WebFront](#user-content-6-webfront)
+6. [Visualisierung](#user-content-6-visualisierung)
 7. [PHP-Befehlsreferenz](#user-content-7-php-befehlsreferenz)
 8. [Versionshistorie](#user-content-8-versionshistorie)
 
@@ -85,13 +85,13 @@ Im Panel "Erweiterte Einstellungen ..." kann man eine Variable vom Typ Boolean a
 
 ### 2. Voraussetzungen
 
-* IP-Symcon ab Version 6.0
+* IP-Symcon ab Version 6.4
 
 ### 3. Installation
 
-* Über den Modul Store das Modul _Pollenflug_ installieren.
+* Über den Modul Store das Modul _Universal Timer_ installieren.
 * Alternativ Über das Modul-Control folgende URL hinzufügen.  
-`https://github.com/Wilkware/IPSymconUniversalTimer` oder `git://github.com/Wilkware/IPSymconUniversalTimer.git`
+`https://github.com/Wilkware/UniversalTimer` oder `git://github.com/Wilkware/UniversalTimer.git`
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
@@ -157,9 +157,9 @@ Name                 | Typ          | Beschreibung
 -------------------- | ------------ | ----------------
 Schalter             | Boolean      | Variable zum manuellen Auslösen der Geräteschaltung (Ein/Aus).
 
-### 6. WebFront
+### 6. Visualisierung
 
-Man kann die Statusvariable (Schalter) direkt im WF verlinken.
+Man kann die Statusvariable (Schalter) direkt in der Visualisierung verlinken.
 
 ### 7. PHP-Befehlsreferenz
 
